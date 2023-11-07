@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "rowNumber": "1",
+      "fullName": "Fatima",
+      "Location": "Andheri",
+      "CGPA": "9.8"
+    },
+    {
+      "id": 2,
+      "rowNumber": "2",
+      "fullName": "Faisal",
+      "Location": "Versova",
+      "CGPA": "9.5"
+    },
+    {
+      "id": 3,
+      "rowNumber": "3",
+      "fullName": "Vaishnavi",
+      "Location": "Malad",
+      "CGPA": "8.9"
+    },
+    {
+      "id": 4,
+      "rowNumber": "4",
+      "fullName": "Anum",
+      "Location": "Goregaon",
+      "CGPA": "8.8"
+    }
+  ]
